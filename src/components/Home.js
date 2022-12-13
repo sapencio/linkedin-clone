@@ -27,6 +27,7 @@ const Container = styled.div`
   max-width: 100%;
 `;
 
+// the idea was to use this configuration to other sections of the container
 const Content = styled.div`
   max-width: 1128px;
   margin-left: auto;
